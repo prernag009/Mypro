@@ -1,1 +1,2 @@
 This line is added in myfile.txt in github
+This line is added in my file.txt in  git
